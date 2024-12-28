@@ -113,7 +113,7 @@
         kscan = <&kscan>;
         soft_off {
             column = <5>;
-            row = <4>;
+            row = <3>;
             bindings = <&hw_soft_off>;
         };
     };
